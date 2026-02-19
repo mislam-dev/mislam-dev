@@ -6,16 +6,16 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Monirul Islam</h1></summary>
     <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=535&lines=Fullstack+Engineer;JavaScript+Enthusiast;Problem+Solver;Interested+In+Entrpise+Solutions" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=535&lines=Backend+Developer;JavaScript+Enthusiast;Problem+Solver;Interested+In+Enterprise+Solutions" alt="Typing SVG" /></a>
   </ul>
 </div>
 
 ## About Me
 
-Full-stack developer with 3.5 years of experience specializing in high-performance React/Next.js applications and Node.js microservices. Proven track record of shipping production-ready, CI/CD-integrated systems and a strong foundation in algorithmic problem-solving.
+Backend Developer specialized in Node.js, ExpressJS, NestJS, and Databases. I design scalable APIs, microservices, and secure systems. Experienced with CI/CD automation and distributed teams. Solved 200+ problems on LeetCode and other platforms.
 
-- 💻 I am a **Software Engineer** with over **3.5 years of experience** building high-quality front-end and back-end applications.
-- 🚀 Expert in **React.js, Next.js, TypeScript, Node.js, NestJS and FastAPI**.
+- 💻 I am a **Backend Developer** with over **2 years of experience** building high-quality back-end applications.
+- 🚀 Expert in **TypeScript, Node.js, NestJS, ExpressJS, PostgreSQL, MongoDB, Redis, Prisma, Firebase, Git, Docker, Nginx, Linux**.
 - 🏆 I have solved **200+ coding problems** across LeetCode, HackerRank, and Codeforces.
 - ⚡ Fact about me: **I love to automate repetitive tasks!**
 - 📫 Reach me at: **[mmislam027@gmail.com](mailto:mmislam027@gmail.com)**
@@ -43,30 +43,10 @@ Full-stack developer with 3.5 years of experience specializing in high-performan
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>HTML5
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br>CSS3
-      </td>
-      <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /><br>JavaScript
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" /><br>TypeScript
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br>C++
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>React
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br>Next.js
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>Node.js
@@ -78,7 +58,7 @@ Full-stack developer with 3.5 years of experience specializing in high-performan
         <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /><br>NestJS
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br>Tailwind
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python
       </td>
     </tr>
     <tr>
@@ -127,11 +107,11 @@ Full-stack developer with 3.5 years of experience specializing in high-performan
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><b> FEATURED PROJECTS:</b>
 
-| Project                                                | Description                                                                           | Tech Stack                        |
-| :----------------------------------------------------- | :------------------------------------------------------------------------------------ | :-------------------------------- |
-| **[prexress](https://github.com/mislam-dev/prexress)** | A custom backend framework integrating automated routing with Drizzle ORM and Prisma. | `Node.js` `Express` `Prisma`      |
-| **EarthScan.io**                                       | Converted Figma design into pixel-perfect UIs with SSR for SEO optimization.          | `Next.js` `TypeScript` `Tailwind` |
-| **Live AI**                                            | Responsive EdTech platform integrating REST APIs for dynamic course data.             | `Next.js` `Supabase` `Shadcn UI`  |
+| Project                                                                                            | Description                                                                                                                                                                                                                                                                                                  | Tech Stack                                                                                        |
+| :------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
+| **[Department Management System](https://github.com/mislam-dev/department-management-system-api)** | A modular NestJS application for managing users, courses, schedules, attendance, notices, activities, reports, academic fees with online payments etc. The project integrates with Auth0 for authentication and role management, exposes a Swagger/OpenAPI UI, and is designed for containerized deployment. | `Node.js` `NestJS`, `Typeorm`, `PostgreSQL`, `Auth0`, `Docker`, `Stripe`, `sslcommerz`, `swagger` |
+| **[prexress](https://github.com/mislam-dev/prexress)**                                             | A custom backend framework integrating automated routing with Drizzle ORM and Prisma.                                                                                                                                                                                                                        | `Node.js` `Express` `Prisma`                                                                      |
+| **[Mini E-commerce](https://github.com/mislam-dev/mini-e-commerce)**                               | A robust backend for a mini e-commerce application built with NestJS, designed to handle products, carts, orders, and payments with fraud detection capabilities.                                                                                                                                            | `Node.js` `NestJS` `TypeOrm` `PostgreSQL` `Stripe` `Docker`, `Swagger`, `Passport & JWT`          |
 
 <br/>
 
@@ -145,7 +125,7 @@ Full-stack developer with 3.5 years of experience specializing in high-performan
   <img src="https://github-readme-stats.vercel.app/api?username=mislam-dev&show_icons=true&locale=en&theme=swift&hide_border=true&include_all_commits=true&count_private=true" alt="mislam-dev stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mislam-dev&show_icons=true&locale=en&layout=compact&theme=swift&hide_border=true" alt="mislam-dev languages" />
   <img src="https://leetcard.jacoblin.cool/mislamdev?theme=nord&font=JetBrains%20Mono&ext=heatmap" alt="mislam-dev leetcode" />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mislam-dev" alt="mislam-dev codeforce" />
+  <!-- <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mislam-dev" alt="mislam-dev codeforce" /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mislam-dev&theme=react-dark&hide_border=true&bg_color=0d1117&area=true&line=06B6D4&point=3B82F6&area_color=6366F1" alt="mislam-dev codeforce" />
 </p>
 
